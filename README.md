@@ -1,4 +1,4 @@
-#👨🏻‍💻 Jonathas Rikelme
+👨🏻‍💻 Jonathas Rikelme
 *Desenvolvedor Front-end*
 
 Olá!! Meu nome é Jonathas Rikelme, tenho 18 anos e resido em Recife, PE. Estou Cursando ADS na Uninassau, e sou profundamente interessado em tecnologia e estou constantemente em busca de aprimorar meus conhecimentos na área.
@@ -42,9 +42,11 @@ Olá!! Meu nome é Jonathas Rikelme, tenho 18 anos e resido em Recife, PE. Estou
 <br/>
 <br/>
 
-### Contato
+### 📬Contato
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/llucasgomess/)
+📩 **Email:** jonathasrikelme.@gmail.com  
+🌐 **Portfólio:**
 
 ### 📊 Estatísticas
 
