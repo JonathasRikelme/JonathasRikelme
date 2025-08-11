@@ -44,7 +44,8 @@ Olá!! Meu nome é Jonathas Rikelme, tenho 18 anos e resido em Recife, PE. Estou
 
 ### 📬Contato
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/llucasgomess/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/jonathas-rikelme-75ab7b352/)
+
 📩 **Email:** jonathasrikelme.@gmail.com  
 🌐 **Portfólio:**
 
