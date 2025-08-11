@@ -5,7 +5,7 @@ Olá!! Meu nome é Jonathas Rikelme, tenho 18 anos e resido em Recife, PE. Estou
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathasrikelme&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasrikelme&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasrikelme&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px" width="385px"/>
 </div>
 
 
