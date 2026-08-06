@@ -1,7 +1,7 @@
 👨🏻‍💻 Jonathas Rikelme
 *Desenvolvedor Front-end*
 
-Olá!! Meu nome é Jonathas Rikelme, tenho 18 anos e resido em Recife, PE. Estou Cursando ADS na Uninassau, sou profundamente interessado em tecnologia e estou constantemente em busca de aprimorar meus conhecimentos na área.
+Olá!! Meu nome é Jonathas Rikelme, tenho 19 anos e resido em Recife, PE. Estou Cursando ADS na Uninassau 3° periodo, sou profundamente interessado em tecnologia e estou constantemente em busca de aprimorar meus conhecimentos na área.
 
 ---
 
